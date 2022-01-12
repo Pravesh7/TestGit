@@ -3,3 +3,5 @@ two
 
 second commit -- changes are made.
 third commit ,,merging.
+
+ conflits are resolved.
