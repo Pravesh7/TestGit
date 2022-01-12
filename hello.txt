@@ -1,2 +1,5 @@
 one
 two
+
+second commit -- changes are made.
+third commit ,,merging.
